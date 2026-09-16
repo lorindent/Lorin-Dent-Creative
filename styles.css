@@ -9,8 +9,8 @@ a:visited {color:#858b70;}
 a:hover {color:#bdc992;}
 
 li{
-  display: inline;
-  padding: 4em;
+  display: flex;
+  padding: 0em;
   margin-left: auto;
   margin-right: auto;
   font-family: Palatino, serif;
